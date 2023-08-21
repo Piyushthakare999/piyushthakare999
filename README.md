@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Thakare</h1>
 <h3 align="center">Perpetual learner, passionate developer.</h3>
 
-//<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushthakare999&label=Profile%20views&color=0e75b6&style=flat" alt="piyushthakare999" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushthakare999&label=Profile%20views&color=0e75b6&style=flat" alt="piyushthakare999" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushthakare999&show_icons=true&locale=en&layout=compact" alt="piyushthakare999" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushthakare999&show_icons=true&locale=en" alt="piyushthakare999" /></p>
+
 
 <!--
 **Piyushthakare999/piyushthakare999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
